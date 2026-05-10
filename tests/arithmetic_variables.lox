@@ -1,0 +1,12 @@
+var a = 10;
+var b = 5;
+
+print a + b;
+print a - b;
+print a * b;
+print a / b;
+
+a = a + 3;
+print a;
+print a > b;
+print a == 13;

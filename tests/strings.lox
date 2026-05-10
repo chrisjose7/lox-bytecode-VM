@@ -1,0 +1,13 @@
+var name = "lox";
+var count = 0;
+
+while (count < 3) {
+  print name;
+  count = count + 1;
+}
+
+if (count == 3) {
+  print "done";
+} else {
+  print "bad";
+}
